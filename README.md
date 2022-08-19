@@ -2,6 +2,7 @@
 `Lí thuyết thông tin - Author Bui Tran Ngoc Ly`
 # Chương 1: Độ đo thông tin
 [1. Khái niệm Entropy](https://github.com/BuiTranNgocLy/CT127_LTTT_CTU/blob/main/Ch1%20%C4%90%E1%BB%99%20%C4%91o%20th%C3%B4ng%20tin.md#1-kh%C3%A1i-ni%E1%BB%87m-entropy)
+
 [2. Entropy của một đại lượng ngẫu nhiên.](https://github.com/BuiTranNgocLy/CT127_LTTT_CTU/blob/main/Ch1%20%C4%90%E1%BB%99%20%C4%91o%20th%C3%B4ng%20tin.md#2-entropy-c%E1%BB%A7a-m%E1%BB%99t-%C4%91%E1%BA%A1i-l%C6%B0%E1%BB%A3ng-ng%E1%BA%ABu-nhi%C3%AAn)
 ## 3. Entropy của hai đại lượng ngẫu nhiên độc lập.
 ## 4. Entropy của nhiều biến phụ thuộ
